@@ -5,7 +5,8 @@
 - Daniel Rodrigues da Costa  
 - Giovanna Carniato  
 - Murilo Sambrana Sabença  
-- Rafael Sousa Oliveira  
+- Rafael Sousa Oliveira
+- GRUPO 7
 
 **Curso:** CC3AN  
 **Atividade:** Prova do dia 10/09  
